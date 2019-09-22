@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Vida y Verdad
+                    Vida y Verdad Admin
                 </div>
 
                 <div class="links">
